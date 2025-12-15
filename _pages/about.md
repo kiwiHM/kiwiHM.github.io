@@ -23,5 +23,5 @@ My research interests include **Graph Algorithms**, and **Database Systems**. I 
 
 * **[Effective Durable Community Search in Large Temporal Graph]()**
   <br>Yingli Zhou\*, **Yige Jiang\***, Yixiang Fang, Wensheng Luo, Yongmin Hu, Xiaoliang Cong, Cheng Chen
-  <br>_*VLDB 2026 (To appear)*_
+  <br>_VLDB 2026 (To appear)_
   <br>_(\*: Equal contribution)_
