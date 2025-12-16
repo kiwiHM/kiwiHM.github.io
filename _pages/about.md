@@ -16,7 +16,7 @@ My research interests include **Database Systems**, and **Graph Algorithms**. I 
 
 ## News
 
-* **2025:** Won the **Sliver Medal** (5th Place) at the 50-th ICPC Asia Ho Chi Minh City Regional Contest.
+* **2025:** Won the **Silver Medal** (5th Place) at the 50-th ICPC Asia Ho Chi Minh City Regional Contest.
 * **2024:** Won the **Gold Medal** (6th Place) at the 49-th ICPC Asia Kunming Regional Contest.
 
 ## Publications
